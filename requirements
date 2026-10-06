@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+cupy-cuda11x
+matplotlib
+seaborn
+scikit-learn
+pandas
+Pillow
+torchviz
+graphviz
